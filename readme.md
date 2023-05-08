@@ -1,0 +1,1 @@
+How to store information in a httpsession on a Springboot that is persisted in redis.
